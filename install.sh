@@ -4,10 +4,10 @@ echo "GitHub开源地址：https://github.com/syybi/halo"
 nix-env -iA nixpkgs.wget
 mkdir build
 cd build
-wget -O .replit https://github.com/syybi/halo/raw/master/.replit
-wget -O replit.nix https://github.com/syybi/halo/raw/master/replit.nix
+wget -O .replit https://raw.githubusercontent.com/syybi/halo/master/.replit
+wget -O replit.nix https://raw.githubusercontent.com/syybi/halo/master/replit.nix
 cd ..
-wget -O main.sh https://github.com/syybi/halo/raw/master/main.sh
+wget -O main.sh https://raw.githubusercontent.com/syybi/halo/master/main.sh
 wget -O halo.jar https://down.sxbai.repl.co/dl/halo-1.6.1.jar
 cp -r build/.replit . && cp -r build/replit.nix .
 echo "搭建完成！！！"
