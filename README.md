@@ -11,10 +11,7 @@
 <a href="https://github.com/sxbai/halo-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/halo-on-replit.svg?style=flat-square" /></a>
 
 <br />
-<a href="https://blog.sxbai.com">博客</a>
 <a href="https://docs.halo.run">文档</a>
-<a href="https://bbs.halo.run">社区</a>
-<a href="https://t.me/sxbai">Telegram 频道</a>
 </p>
 
 ------------------------------
