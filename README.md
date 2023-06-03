@@ -29,19 +29,19 @@ Jar是我重新用官方仓库：[https://github.com/halo-dev/halo](https://gith
 
 Halov1.6.1一键脚本
 ```
-bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/syybi/halo/master/install.sh)
 ```
 
 Halov2.6.0-rc.1一键脚本
 ```
-bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/install2.sh)
+bash <(curl -s https://raw.githubusercontent.com/syybi/halo/master/install2.sh)
 ```
 
 Halo一键升级脚本(Halo1.6不可使用此脚本，必须Halo2.0之后)
 > 当前更新版本`2.6.0-rc.1`
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/update.sh)
+bash <(curl -s https://raw.githubusercontent.com/syybi/halo/master/update.sh)
 ```
 ## Halo2.0以上版本自定义密码
 Halo文档演示是这样的:
